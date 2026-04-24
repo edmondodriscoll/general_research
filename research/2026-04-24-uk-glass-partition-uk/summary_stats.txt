@@ -1,0 +1,15 @@
+total_companies=50
+with_profit=7
+with_revenue=1
+profit_coverage_pct=14.0
+revenue_coverage_pct=2.0
+average_profit_gbp=1299375.0
+median_profit_gbp=115438
+top_profit_companies=
+Aluprof|5624813
+Fusion Partitions|2833335
+Komfort Partitioning|366720
+Cheadle Glass Company|115438
+Clestra Hauserman|107735
+Avon Partitioning Services|27044
+Optima Systems|20540
