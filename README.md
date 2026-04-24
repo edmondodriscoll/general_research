@@ -13,5 +13,5 @@ This repository is for **general research** across mixed topics.
 ## Current research folders
 
 - `research/2026-04-24-uk-glass-partition-uk/`
-  - UK glass repair/partition company landscape (top 50 from search-based discovery)
+  - UK glass fixing/repair company landscape (top 50 from search-based discovery)
   - Companies House linkage with latest available filed figures where machine-readable
